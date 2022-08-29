@@ -1,0 +1,5 @@
+Artificial Intelligence is a method of learning new data.
+Artificial Intelligence covers three types of tasks:
+1.  Mundane Tasks  
+2.  Formal Tasks 
+3.  Expert Tasks"
