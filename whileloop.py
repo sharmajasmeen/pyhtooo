@@ -3,7 +3,7 @@ year=int(input())
 while(year!=1947):
     print("u got this wrong.enter once again")
     year=int(input())
-print("wowwww u it right")
+print("Yes u it right")
 
 #while works like this:
 #while<condition>
